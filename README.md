@@ -15,7 +15,7 @@ You can use the [mybinder service](https://mybinder.org) to immediately open thi
 To be able to run this manually you need to install the necessary pre-requisites.
 
 ```bash
-pip install pandas jupyter
+pip install -r "requirements.txt"
 ```
 
 ### Embededing in VS Code
