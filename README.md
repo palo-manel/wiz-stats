@@ -1,6 +1,8 @@
 # wiz-stats
 
-This [Jupyter notebook](https://jupyter.org/) parses the output of wiz.io and provides some useful stats.
+This [Jupyter notebook](https://jupyter.org/) uses [GraphQL queries](https://graphql.org/) to retrieve information from [wiz.io](https://app.wiz.io/) and provide some useful stats.
+
+The queries were built using the [wiz.io API Explorer](https://app.wiz.io/api-explorer), there's also a [Postman Collection](https://docs.wiz.io/wiz-docs/docs/postman-collection) with examples available.
 
 ## Running Locally
 
